@@ -1,0 +1,22 @@
+body{
+    margin-left: 10%; 
+    margin-right: 10%; 
+}
+
+.search{
+    margin: 20px; 
+}
+
+.jumbotron{
+    background: #8A2908; 
+    color: white; 
+}
+
+.card-header{
+    background: #007bff; 
+    color: white; 
+}
+
+.card{
+    border-color: #007bff; 
+}
